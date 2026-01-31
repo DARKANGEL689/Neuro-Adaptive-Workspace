@@ -1,0 +1,7 @@
+{
+  "name": "Neuro-Adaptive Workspace",
+  "description": "A biologically responsive OS interface that adapts its DOM structure based on simulated physiological stress levels using WebNN and rPPG concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
